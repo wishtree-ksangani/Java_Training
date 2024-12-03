@@ -5,6 +5,8 @@
 - Garbage Collector
 - JAR Packaging
 - JAVA Versions
+- JAVA Syntex and Identifiers
+
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
