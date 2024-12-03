@@ -1,4 +1,9 @@
 # Java Training
+## [Day 1](./Day1/)
+- JVM, JRE, JDK
+- Memory Allocation
+- Garbage Collector
+- JAR Packaging
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
