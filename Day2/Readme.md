@@ -35,6 +35,7 @@
 - break
 - continue
 - return :- to exit from the method
+- switch
 
     
 
