@@ -7,6 +7,8 @@
 - JAVA Versions
 - JAVA Syntex and Identifiers
 
+## [Day 2](./Day2/)
+
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
