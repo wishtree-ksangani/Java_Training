@@ -8,6 +8,10 @@
 - JAVA Syntex and Identifiers
 
 ## [Day 2](./Day2/)
+- Keywords
+- Operators
+- Flow Control
+- Commenting
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
