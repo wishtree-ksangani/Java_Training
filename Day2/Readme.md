@@ -25,6 +25,7 @@
 # Take input from user
 - BufferedReader
 - Scanner
+- System.in is a standerd input stream which uses the default input as keyboard
 
 # Proper way for commenting
 - Reference blog - [Link](https://medium.com/@AlexanderObregon/how-to-comment-in-your-java-code-effectively-fe1b849da3a0)
