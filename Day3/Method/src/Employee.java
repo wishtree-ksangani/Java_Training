@@ -10,7 +10,7 @@ public class Employee {
 
     private int id;
     private String name;
-    private  String department;
+    private String department;
     protected static int nextId = 0;
 
     /**
@@ -43,7 +43,7 @@ public class Employee {
      * @param department Department in which em
      * @return Object of Employee with given details
      */
-    public static Employee createEmployee( String name, String department){
+    public static Employee createEmployee(String name, String department){
         return new Employee(nextId++, name, department);
     }
 
@@ -66,7 +66,7 @@ public class Employee {
      * </p>
      *
      * @return Status 0 if not executed Status 1 if successfully executed
-     * @exception  IOException Thrown if length of name is greate than 10
+     * @throws IOException Thrown if length of name is greate than 10
      */
     public int addEmployeeToDatabase () throws IOException{
         if(name.length() > 10){
@@ -76,6 +76,4 @@ public class Employee {
 
         return  0;
     }
-
-
 }
