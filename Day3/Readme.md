@@ -29,9 +29,10 @@
         - So it has overhead and uses in multithreaded environment
     - StringBuilder
         - mutable
-        - not thread safe
-
-# String 
+        - not thread safe 
     - concate method (temporory concate)
         
-
+# Interface 
+- It implements IS-A relationship.
+- multiple inheritance, resolution of diamond problem
+- default methods
