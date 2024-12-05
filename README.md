@@ -13,6 +13,9 @@
 - Flow Control
 - Commenting
 
+# [Day 3](./Day3/)
+- Method
+
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
