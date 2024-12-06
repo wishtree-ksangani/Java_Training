@@ -4,6 +4,9 @@
 - sealed & permits
     - If we have sealed one class then the child class of it shuld available in the permits list and should be final or it should again be sealed class
 - transient
+    - If we want to do the same work without using the transient use the custom readObject and writeObject method
+    - EX :- [Link](./Basics/src/TransientExample.java)
+
 
 # Data types
 ![alt text](image.png)
@@ -22,6 +25,7 @@
 # Take input from user
 - BufferedReader
 - Scanner
+- System.in is a standerd input stream which uses the default input as keyboard
 
 # Proper way for commenting
 - Reference blog - [Link](https://medium.com/@AlexanderObregon/how-to-comment-in-your-java-code-effectively-fe1b849da3a0)
@@ -35,6 +39,7 @@
 - break
 - continue
 - return :- to exit from the method
+- switch
 
     
 

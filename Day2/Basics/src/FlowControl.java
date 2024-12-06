@@ -61,5 +61,20 @@ public class FlowControl {
             System.out.println();
         }
         System.out.println();
+
+//        switch
+        switch (b){
+            case 0 :
+                System.out.println("It's bad thing to assign 0");
+                break;
+            case 10:
+                System.out.println("It's a good number");
+                break;
+            case 20:
+                System.out.println("It's a large number");
+                break;
+            default:
+                System.out.println("default is executed");
+        }
     }
 }
