@@ -36,3 +36,10 @@
 - It implements IS-A relationship.
 - multiple inheritance, resolution of diamond problem
 - default methods
+- Availavle Functional Interfaces
+    - Consumar
+    - Predicate
+    - Function
+        - UnaryOperator :- Only difference is that Function can have different input and output types and unary operator can have the same input and output type
+    - BiFunction
+        - BinaryOperator

@@ -15,6 +15,9 @@
 
 # [Day 3](./Day3/)
 - Method
+- String
+- Interface
+- Arrays
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
