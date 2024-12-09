@@ -15,6 +15,13 @@
 
 # [Day 3](./Day3/)
 - Method
+- String
+- Interface
+- Arrays
+
+# [Day 4](./Day4/)
+- Exception
+- Regex
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
