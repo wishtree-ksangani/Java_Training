@@ -24,6 +24,10 @@
 - Regex
 
 # [Day 5](./Day5/)
+- Multithreading
+
+# [Day 6](./Day6/)
+- synchronization
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)

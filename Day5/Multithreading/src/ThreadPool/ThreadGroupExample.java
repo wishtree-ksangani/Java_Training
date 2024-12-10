@@ -18,5 +18,7 @@ public class ThreadGroupExample {
         thread5.start();
         thread6.start();
         System.out.println("Active threads after started : " + threadGroup.activeCount());
+
+        threadGroup.interrupt();
     }
 }
