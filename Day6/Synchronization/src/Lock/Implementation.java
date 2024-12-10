@@ -1,5 +1,8 @@
 package Lock;
 
+/**
+ * Main class to show the multithreading with locks.
+ */
 public class Implementation {
     public static void main(String[] args) {
         StoreAndFetch storeAndFetch = new StoreAndFetch();

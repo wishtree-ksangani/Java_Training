@@ -1,5 +1,8 @@
 package Deadlock;
 
+/**
+ * Main class to create deadlock situation
+ */
 public class Main {
     public static void main(String[] args) {
         Resource resource1 = new Resource();
