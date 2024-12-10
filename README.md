@@ -23,6 +23,8 @@
 - Exception
 - Regex
 
+# [Day 5](./Day5/)
+
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
 - [JavaTpoint](https://www.javatpoint.com/java-tutorial)
