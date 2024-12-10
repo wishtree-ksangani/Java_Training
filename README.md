@@ -27,7 +27,7 @@
 - Multithreading
 
 # [Day 6](./Day6/)
-- synchronization
+- Synchronization
 
 ## Resources
 - [W3Schoola](https://www.w3schools.com/java/)
